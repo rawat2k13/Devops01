@@ -1,3 +1,8 @@
 
 Hi anil 
+<<<<<<< HEAD
 This is git merged sample test1
+=======
+THis is staging demo1
+
+>>>>>>> main
